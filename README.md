@@ -7,7 +7,7 @@
     <li>Clone repo and enter your settings.</li>
     <li>Install dependencies with command <code>npm install</code>
     <li>Add bot your server.</li>
-    <li>Run <code>yarn start</code> or <code>node index.js</code> for production server, run <code>node .</code> for development server.</li>
+    <li>Run <code>npm install</code> or <code>node index.js</code> for production server, run <code>node .</code> for development server.</li>
 </ol>
 
 ## Author
