@@ -1,13 +1,13 @@
 {
-    "name": "burcsistemi-totika",
-    "version": "0.0.3",
-    "description": "",
+    "name": "discord-horoscope-bot",
+    "version": "1.0.1",
+    "description": "Simple Discord Horoscope Bot.",
     "main": "index.js",
     "scripts": {
-      "test": "node index.js"
+      "test": "node ."
     },
     "author": "Totika.",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
       "discord.js": "^12.5.3",
       "burc-api": "1.0.2"
