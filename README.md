@@ -1,10 +1,6 @@
 <h1 align="center">discord-horoscope-bot</h1>
 <p align="center">Discord horoscope Bot for private servers.</p>
 
-## TODOS
-
-- [ ] Add settings command.
-
 ## Usage
 
 <ol>
